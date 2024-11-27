@@ -21,9 +21,22 @@ def draw(a,b,c):
     mt.legend()
     mt.show()
 
-
+def validation(num):
+    num=num.replace(" ","")
+    if num.isdigit():
+        return True
+    return False
+a=""
+b=""
+c=""
 print("For function ax2+bx+c input a,b,c:")
-a=int(input("a = "))
-b=int(input("b = "))
-c=int(input("c = "))
+while not validation(a):
+    a=input("a = ")
+a=int(a)
+while not validation(b):
+    b=input("b = ")
+b=int(b)
+while not validation(c):
+    c=input("c = ")
+c=int(c)
 draw(a,b,c)
