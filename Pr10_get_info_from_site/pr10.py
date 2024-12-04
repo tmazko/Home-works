@@ -25,7 +25,7 @@ def load_data(site_path, class_name):
         table.append(row)
     return row_head, table
 def print_std(place):
-    print(*row_head)
+    print(*header)
     for std in place:
         print(*std)
 row_head,TABLE=load_data("https://data.uoi.ua/contest/uoi/2024/results",".table-striped")
@@ -35,11 +35,11 @@ place_III = []
 
 for std in TABLE:
     if std[-1]=="I":
-        place_I.append(std)
+        place_I.append([std[0],std[1],std[2],std[12], std[3]])
     elif std[-1]=="II":
-        place_II.append(std)
+        place_II.append([std[0],std[1],std[2],std[12], std[3]])
     elif std[-1]=="III":
-        place_III.append(std)
+        place_III.append([std[0],std[1],std[2],std[12], std[3]])
 
 for i in range(len(place_I)):
     place_I[i][0]=i+1
@@ -48,10 +48,10 @@ for i in range(len(place_II)):
 for i in range(len(place_III)):
     place_III[i][0]=i+1
 
-
-write_in_csv("place_1.csv", place_I,row_head)
-write_in_csv("place_2.csv", place_II,row_head)
-write_in_csv("place_3.csv", place_III,row_head)
+header=["#","Name", "Town", "Points", "Grade"]
+write_in_csv("place_1.csv", place_I,header)
+write_in_csv("place_2.csv", place_II,header)
+write_in_csv("place_3.csv", place_III,header)
 
 
 
