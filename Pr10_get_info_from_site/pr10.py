@@ -9,6 +9,7 @@ def write_in_csv(file_name, data, header):
         for std in data:
             spamwriter.writerow(std)
 
+
 resource=requests.get("https://data.uoi.ua/contest/uoi/2024/results")
 site =bs4.BeautifulSoup(resource.content, "html.parser")
 table_head = site.select(".table-striped > thead > tr th")
@@ -42,6 +43,10 @@ for std in TABLE:
 
 for i in range(len(place_I)):
     place_I[i][0]=i+1
+for i in range(len(place_II)):
+    place_II[i][0]=i+1
+for i in range(len(place_III)):
+    place_III[i][0]=i+1
 
 
 write_in_csv("place_1.csv", place_I,row_head)

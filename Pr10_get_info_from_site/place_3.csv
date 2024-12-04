@@ -1,34 +1,34 @@
 #,Ім'я,Команда,Клас,A,B,C,D,E,F,G,H,Сума,Дип.
-20,Dudchak Volodymyr Yuriiovych,Lviv O.,11,96,100,4,10,100,26,0,0,336,III
-22,Danyliuk Dmytro Oleksandrovych,Rivne O.,11,100,100,4,10,80,26,12,0,332,III
-28,Skulysh Maksym Andriiovych,Kyiv C.,11,86,100,18,20,41,33,9,0,307,III
-29,Kheifets Yunna Eduardivna,Dnipropetrovsk O.,11,100,53,4,10,100,22,9,0,298,III
-31,Mykhalko Andrii Yaroslavovych,Zakarpattia O.,11,86,88,4,20,54,26,0,16,294,III
-33,Yemelianenko Anton Tarasovych,Vinnytsia O.,11,86,100,0,20,80,4,0,0,290,III
-34,Protsenko Pavlo Andriiovych,Mykolaiv O.,11,86,53,0,10,100,26,12,0,287,III
-36,Borzenkov Andrii Borysovych,Kharkiv O.,10,86,100,4,10,41,26,12,0,279,III
-36,Harbuza Kyryl Yuriiovych,Kyiv C.,10,86,53,4,10,100,14,12,0,279,III
-38,Foiak Vitalii Myroslavovych,Ivano-Frankivsk O.,11,86,40,14,35,61,37,0,0,273,III
-39,Bevza Andrii Volodymyrovych,Poltava O.,11,86,63,18,20,54,14,3,14,272,III
-40,Yurchenko Viktoriia Andriivna,Zakarpattia O.,10,86,63,4,10,80,14,12,0,269,III
-41,Hrynchak Roman Valeriiovych,UPML,11,86,22,4,0,100,37,12,0,261,III
-42,Uleshchenko Fedir Volodymyrovych,UPML,10,86,63,4,20,41,37,0,6,257,III
-43,Strakhal Oleksandr Romanovych,Odesa O.,11,86,10,18,20,80,37,3,0,254,III
-44,Ovcharenko Ihnat Olehovych,Kyiv C.,10,86,53,4,10,61,26,12,0,252,III
-45,Kapustiak Yurii Yuriiovych,Zakarpattia O.,10,86,53,0,10,61,14,18,6,248,III
-48,Sadovnikov Roman Oleksiiovych,Dnipropetrovsk O.,9 (7),86,6,4,10,100,14,12,3,235,III
-49,Denha Olesia Oleksandrivna,Poltava O.,9,96,63,4,10,27,26,3,0,229,III
-50,Yatsenko Ivan Ivanovych,Vinnytsia O.,10,86,63,4,20,17,26,12,0,228,III
-51,Kholod Andrii Serhiiovych,Khmelnytskyi O.,10,96,53,0,10,61,4,0,0,224,III
-52,Solohub Semen Ihorovych,Khmelnytskyi O.,10,86,40,4,10,61,14,3,0,218,III
-52,Domashenko Nikolai Vladyslavovych,Chernihiv O.,11,86,63,4,10,34,21,0,0,218,III
-54,Kuzma Andrii Oleksandrovych,Zakarpattia O.,9 (8),96,0,4,10,80,26,0,0,216,III
-58,Voitovych Daryna Yuriivna,Khmelnytskyi O.,10,96,0,4,20,80,4,3,0,207,III
-59,Nahosha Kyrylo Mykytovych,Poltava O.,10,96,0,4,20,47,26,12,0,205,III
-63,Strakhal Dmytro Romanovych,Odesa O.,9,86,0,0,0,80,22,3,0,191,III
-65,Mielamud Roman Ihorovych,Kyiv C.,9,86,53,0,10,34,0,3,0,186,III
-70,Shneider Ivan Vitaliiovych,Zakarpattia O.,9 (8),96,0,4,10,41,26,0,0,177,III
-75,Shyika Marian Olehovych,Lviv O.,9,86,0,4,20,34,10,3,6,163,III
-78,Akchurina Milania Ihorivna,Kharkiv O.,9 (8),86,0,4,10,54,0,3,0,157,III
-80,Syrevych Maksym Pavlovych,Zaporizhzhia O.,9,86,0,4,10,54,0,0,0,154,III
-85,Savyshyn Yaroslav Anatoliiovych,Khmelnytskyi O.,9,63,6,4,10,47,0,0,0,130,III
+1,Dudchak Volodymyr Yuriiovych,Lviv O.,11,96,100,4,10,100,26,0,0,336,III
+2,Danyliuk Dmytro Oleksandrovych,Rivne O.,11,100,100,4,10,80,26,12,0,332,III
+3,Skulysh Maksym Andriiovych,Kyiv C.,11,86,100,18,20,41,33,9,0,307,III
+4,Kheifets Yunna Eduardivna,Dnipropetrovsk O.,11,100,53,4,10,100,22,9,0,298,III
+5,Mykhalko Andrii Yaroslavovych,Zakarpattia O.,11,86,88,4,20,54,26,0,16,294,III
+6,Yemelianenko Anton Tarasovych,Vinnytsia O.,11,86,100,0,20,80,4,0,0,290,III
+7,Protsenko Pavlo Andriiovych,Mykolaiv O.,11,86,53,0,10,100,26,12,0,287,III
+8,Borzenkov Andrii Borysovych,Kharkiv O.,10,86,100,4,10,41,26,12,0,279,III
+9,Harbuza Kyryl Yuriiovych,Kyiv C.,10,86,53,4,10,100,14,12,0,279,III
+10,Foiak Vitalii Myroslavovych,Ivano-Frankivsk O.,11,86,40,14,35,61,37,0,0,273,III
+11,Bevza Andrii Volodymyrovych,Poltava O.,11,86,63,18,20,54,14,3,14,272,III
+12,Yurchenko Viktoriia Andriivna,Zakarpattia O.,10,86,63,4,10,80,14,12,0,269,III
+13,Hrynchak Roman Valeriiovych,UPML,11,86,22,4,0,100,37,12,0,261,III
+14,Uleshchenko Fedir Volodymyrovych,UPML,10,86,63,4,20,41,37,0,6,257,III
+15,Strakhal Oleksandr Romanovych,Odesa O.,11,86,10,18,20,80,37,3,0,254,III
+16,Ovcharenko Ihnat Olehovych,Kyiv C.,10,86,53,4,10,61,26,12,0,252,III
+17,Kapustiak Yurii Yuriiovych,Zakarpattia O.,10,86,53,0,10,61,14,18,6,248,III
+18,Sadovnikov Roman Oleksiiovych,Dnipropetrovsk O.,9 (7),86,6,4,10,100,14,12,3,235,III
+19,Denha Olesia Oleksandrivna,Poltava O.,9,96,63,4,10,27,26,3,0,229,III
+20,Yatsenko Ivan Ivanovych,Vinnytsia O.,10,86,63,4,20,17,26,12,0,228,III
+21,Kholod Andrii Serhiiovych,Khmelnytskyi O.,10,96,53,0,10,61,4,0,0,224,III
+22,Solohub Semen Ihorovych,Khmelnytskyi O.,10,86,40,4,10,61,14,3,0,218,III
+23,Domashenko Nikolai Vladyslavovych,Chernihiv O.,11,86,63,4,10,34,21,0,0,218,III
+24,Kuzma Andrii Oleksandrovych,Zakarpattia O.,9 (8),96,0,4,10,80,26,0,0,216,III
+25,Voitovych Daryna Yuriivna,Khmelnytskyi O.,10,96,0,4,20,80,4,3,0,207,III
+26,Nahosha Kyrylo Mykytovych,Poltava O.,10,96,0,4,20,47,26,12,0,205,III
+27,Strakhal Dmytro Romanovych,Odesa O.,9,86,0,0,0,80,22,3,0,191,III
+28,Mielamud Roman Ihorovych,Kyiv C.,9,86,53,0,10,34,0,3,0,186,III
+29,Shneider Ivan Vitaliiovych,Zakarpattia O.,9 (8),96,0,4,10,41,26,0,0,177,III
+30,Shyika Marian Olehovych,Lviv O.,9,86,0,4,20,34,10,3,6,163,III
+31,Akchurina Milania Ihorivna,Kharkiv O.,9 (8),86,0,4,10,54,0,3,0,157,III
+32,Syrevych Maksym Pavlovych,Zaporizhzhia O.,9,86,0,4,10,54,0,0,0,154,III
+33,Savyshyn Yaroslav Anatoliiovych,Khmelnytskyi O.,9,63,6,4,10,47,0,0,0,130,III
