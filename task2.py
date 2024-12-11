@@ -33,7 +33,7 @@ class Task():
         self.status=status
 
     def __str__(self) -> str:
-        print(f"Task {self.name}: {self.description}")
+        return(f"Task {self.name}: {self.description}")
 
 t1=Task("Cleaning","Do cleaning","P")
 t2=Task("Washing","Wash the dishes","N")
