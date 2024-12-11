@@ -67,14 +67,22 @@ cars=[]
 
 while(True):
     mode=choose_mode()
-    match mode:
-        case 1:
-            title=input("Enter title: ")
-            description=input("Enter description: ")
-            status=input("Enter status(only a letter: N-not started, P-in progress, F-finished): ")
-            p1.tasks.append(Task(title,description,status.upper()))
-        case 2:
-
-
+    if mode== 1:
+        title=input("Enter title: ")
+        description=input("Enter description: ")
+        status=input("Enter status(only a letter: N-not started, P-in progress, F-finished): ")
+        p1.tasks.append(Task(title,description,status.upper()))
+    elif mode== 2:
+        task_title=input("Enter task title to remove it: ")
+        p1.remove_task(task_title)
+    elif mode==3:
+        task_title = input("Enter task title to remove it: ")
+        p1.get_task_status(task_title)
+    elif mode==4:
+        task_title = input("Enter task title to remove it: ")
+        task_status=input("Enter new status(only a letter: N-not started, P-in progress, F-finished): ")
+        p1.update_task_status(task_title,task_status)
+    elif mode==5:
+        p1.print_tasks()
     if not is_continue():
         break
