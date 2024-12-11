@@ -83,6 +83,9 @@ while(True):
         task_status=input("Enter new status(only a letter: N-not started, P-in progress, F-finished): ")
         p1.update_task_status(task_title,task_status)
     elif mode==5:
+        task_status=input("Enter status to get your tasks: ")
+        p1.get_tasks_by_status(task_status)
+    elif mode==6:
         p1.print_tasks()
     if not is_continue():
         break
