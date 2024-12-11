@@ -33,6 +33,9 @@ place_I = []
 place_II = []
 place_III = []
 
+
+
+
 for std in TABLE:
     if std[-1]=="I":
         place_I.append([std[0],std[1],std[2],std[12], std[3]])
